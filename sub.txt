@@ -1,1 +1,2 @@
-vless://test
+vless://8604fb76-e99e-4dfd-bc4d-f05e37df463c@connect.i-love-russia.online:28005?encryption=none&flow=xtls-rprx-vision&security=reality&sni=connect.i-love-russia.online&fp=firefox&pbk=20fxBL8rC3x60P0ZtbJ7a3KDcB54kw3hSIIbos7PaHE&sid=bc89a5e654ae0cb3&type=tcp#🇸🇪 Швеция
+
